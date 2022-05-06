@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-deploy/static/css/main.e561f4ce.css",
+    "main.js": "/react-deploy/static/js/main.2e85dc28.js",
+    "static/media/chileez.PNG": "/react-deploy/static/media/chileez.fc9b5e5f75eccdd6b83f.PNG",
+    "static/media/lang-selector.PNG": "/react-deploy/static/media/lang-selector.5b95b7d4fca35f9c8792.PNG",
+    "index.html": "/react-deploy/index.html",
+    "main.e561f4ce.css.map": "/react-deploy/static/css/main.e561f4ce.css.map",
+    "main.2e85dc28.js.map": "/react-deploy/static/js/main.2e85dc28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e561f4ce.css",
+    "static/js/main.2e85dc28.js"
+  ]
+}
